@@ -1,6 +1,6 @@
-# QR — Responsive QR Code Generator
+# QGen — Responsive QR Code Generator
 
-**QR** is a fast, modern, and completely **free forever** web app for creating QR codes.  
+**QGen** is a fast, modern, and completely **free forever** web app for creating QR codes.  
 It’s **ad-free**, **responsive**, and built entirely with **HTML, CSS, and JavaScript** — no frameworks, sign-ups, or dependencies.
 
 Generate, preview, and download your QR codes instantly with **live updates** and **advanced customization** options.
